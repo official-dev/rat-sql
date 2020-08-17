@@ -15,7 +15,7 @@ setup(
         'babel~=2.7.0',
         'bpemb~=0.2.11',
         'cython~=0.29.1',
-        'entmax',
+        # 'entmax',
         'jsonnet~=0.14.0',
         'networkx~=2.2',
         'nltk~=3.4',
